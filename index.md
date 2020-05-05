@@ -5,3 +5,6 @@
 layout: default
 perma_link: index.html
 ---
+
+This is an index file.
+
